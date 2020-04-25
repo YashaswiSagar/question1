@@ -1,4 +1,5 @@
 /Find the minimum absolute difference between any two array elements
+/open input.txt for sample inputs and outputs
 #include<bits/stdc++.h>
 using namespace std;
 int main()
